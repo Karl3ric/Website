@@ -1,7 +1,7 @@
 # Website
 
-https://Karl3ric.github.io/Website/index.html
-https://Karl3ric.github.io/Website/location.html
-https://Karl3ric.github.io/Website/products.html
-https://Karl3ric.github.io/Website/reviews.html
-https://Karl3ric.github.io/Website/staff.html
+[Home Page](https://Karl3ric.github.io/Website/index.html)
+[Location Page](https://Karl3ric.github.io/Website/location.html)
+[Products Page](https://Karl3ric.github.io/Website/products.html)
+[Reviews Page](https://Karl3ric.github.io/Website/reviews.html)
+[Staff Page](https://Karl3ric.github.io/Website/staff.html)
